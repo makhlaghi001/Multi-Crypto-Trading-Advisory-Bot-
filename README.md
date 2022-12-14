@@ -1,4 +1,4 @@
-### Multi-Cryto Trading Bot
+# Multi-Cryto Trading Bot
 
 ## Background
 
@@ -44,9 +44,9 @@ to populate signals, which later will be backtested by sequential modeling.
 
 8.  Use HVPLOT, to plot and display “Actual Returns”, vs “Strategy Returns”.
 
-# Use PSAR to generate market trend through out the period.
-# Use PSAR to generat Buy and Short Signals 
-# Plot findings 
+### Use PSAR to generate market trend through out the period.
+### Use PSAR to generat Buy and Short Signals 
+### Plot findings 
 
 ## Backtest the better performing model
 
