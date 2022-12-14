@@ -57,15 +57,24 @@ Yahoo Finanace
 
 ### Coin Portfolio
 
-Bitcoin, LiteCoin, XRP, DogeCoin
+Bitcoin, 
+
+LiteCoin, 
+
+XRP, 
+
+DogeCoin
 
 ### Models Used
 SVM(Support Vector Machine)
+
 LogisticRegression 
 
 ### Indicators 
 SMA long and short 
+
 EMA long and short
+
 PSAR 
 
 
