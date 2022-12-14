@@ -1,4 +1,4 @@
-# Multi-Cryto Trading Bot
+# Multi-Crpyto Trading Bot
 
 ### Background
 
