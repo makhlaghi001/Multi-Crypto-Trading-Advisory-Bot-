@@ -1,13 +1,13 @@
 # Multi-Cryto Trading Bot
 
-## Background
+### Background
 
 In this project we are creating a Multi-Cryoto Trading Advisor Bot. This bot will be taking live hiostorical data through Yahoo Finance API for the period between 2014-2022.
 The bot will generate buy, sell and hold signals for a portfolio of four coins. In order to generate the mentioned signals, the machine will run through seires of indicators and models 
 to populate signals, which later will be backtested by sequential modeling. 
 
 
-## Establish a Baseline Performance
+### Establish a Baseline Performance
 
 1.  Import the OHLCV dataset into a Pandas DataFrame from Yahoo Finanace 
 
@@ -26,7 +26,7 @@ to populate signals, which later will be backtested by sequential modeling.
 8.  Use HVPLOT, to plot and display “Actual Returns”, vs “Strategy Returns”.
 
 
-## Tune and evaluate the model by using a second Machine Learning Classifier 
+### Tune and evaluate the model by using a second Machine Learning Classifier 
 
 1.  Import the OHLCV dataset into a Pandas DataFrame from Yahoo Finance.
 
@@ -44,26 +44,26 @@ to populate signals, which later will be backtested by sequential modeling.
 
 8.  Use HVPLOT, to plot and display “Actual Returns”, vs “Strategy Returns”.
 
-### Use PSAR to generate market trend through out the period.
-### Use PSAR to generat Buy and Short Signals 
-### Plot findings 
+ Use PSAR to generate market trend through out the period.
+ Use PSAR to generat Buy and Short Signals 
+ Plot findings 
 
-## Backtest the better performing model
+### Backtest the better performing model
 
 1.  Use Neural Networks deep learning multiclass to back test the model. 
 
-## AP!
+### API
 Yahoo Finanace 
 
-## Coin Portfolio
+### Coin Portfolio
 
 Bitcoin, LiteCoin, XRP, DogeCoin
 
-## Models Used
+### Models Used
 SVM(Support Vector Machine)
 LogisticRegression 
 
-## Indicators 
+### Indicators 
 SMA long and short 
 EMA long and short
 PSAR 
