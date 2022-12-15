@@ -22,7 +22,12 @@ o	We have chosen neural networks as we believe
 	it can improve accuracy though multiple training and testing process.
 
 	detect complex nonlinear relationships between dependent and independent variables, ability to detect all possible interactions between predictor variables, and the availability of multiple training
+	Neural Networks-Deep Learning (for back testing)
 
+Support Vector Machine 
+
+AdaBoost Model 
+ 
 ## This advisory bot will indicate the following signals:
 
 	Buy,
@@ -39,8 +44,6 @@ o	We have chosen neural networks as we believe
 	Simple Moving day Averages (SMA) (Long and Short)
 
 o	SMA is a great option for our indicator as it uses both long and short term moving average, which can be very helpful in understanding a cryptocurrency trajectory, as well entry and exit. 
-
-	Neural Networks-Deep Learning (for back testing)
 
  Parabolic Stop and Revers (PSAR)
 
