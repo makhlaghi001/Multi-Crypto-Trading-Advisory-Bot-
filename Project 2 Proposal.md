@@ -1,4 +1,4 @@
-# Project 2 - Crypto Trading Bot via Machine Learning Models
+# Project 2 - Crypto Trading Advisory Bot via Machine Learning Models
 
 ### Members:
 1.	Mehrdad Akhlaghi
