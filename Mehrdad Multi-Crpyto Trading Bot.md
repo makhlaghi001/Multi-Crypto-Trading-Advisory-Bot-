@@ -77,6 +77,10 @@ EMA long and short
 
 PSAR 
 
+### Sources for the PSAR
+
+https://raposa.trade/blog/the-complete-guide-to-calculating-the-parabolic-sar-in-python/
+
 
 
 
