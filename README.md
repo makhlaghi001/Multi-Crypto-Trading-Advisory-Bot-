@@ -1,5 +1,4 @@
 # Multi Crypto-Trading-Advisory-Bot-
-# Multi-Crpyto Trading Bot
 
 ### Background
 
